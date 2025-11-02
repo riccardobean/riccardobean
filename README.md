@@ -1,9 +1,9 @@
 ## Hi there, I'm Riccardo! 👋
-Welcome to my GitHub!
+**Welcome to my GitHub!**
 
-- 🌱 I am studying Computer Science at NYU Tandon with minors in Game Engineering, Mathematics, and Astronomy.
-- 🔭 I’m currently working on a lot of things! Whenever I have free time I like to pick up a new tool/framework and make a new project.
-- 📫 How to reach me: [Contact Form](https://riccardo-bean.vip/contact)
+- 🌱 **I am studying Computer Science at NYU Tandon with minors in Game Engineering, Mathematics, and Astronomy.**
+- 🔭 **I’m currently working on a lot of things! Whenever I have free time I like to pick up a new tool/framework and make a new project.**
+- 📫 **How to reach me: [Contact Form](https://riccardo-bean.vip/contact)**
 ---
 ## Tech Stack
 ### Programming Languages
